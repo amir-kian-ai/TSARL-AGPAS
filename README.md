@@ -20,7 +20,7 @@ The **core training logic, optimizer details, structured perturbation planner in
 
 - Public stubs for training and evaluation entry points
 - Public stubs for TSARL/AGPAS-related modules
-- A result snapshot for CIFAR-10
+- A result snapshot for CIFAR-10, CIFAR-100, ImageNet
 - Minimal repository metadata for citation and authorship tracking
 
 ## What is intentionally withheld
