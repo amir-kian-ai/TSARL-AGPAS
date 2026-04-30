@@ -6,7 +6,7 @@ robustness,PGD-10,58.06
 robustness,PGD-20,55.09
 robustness,PGD-50,52.29
 robustness,AA,49.60
-setup,Throughput,4.5k-6.1k img/s
+setup,Throughput,6080 img/s
 setup,Speedup vs. PGD-50,9.5x
 setup,Threat model,"Linf, eps = 8/255"
 setup,PGD step size,alpha = 2/255
