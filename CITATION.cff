@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Kian"
     given-names: "Amir"
-repository-code: "https://github.com/USERNAME/tsarl-public-preview"
+repository-code: "https://github.com/amir-kian-ai/TSARL-AGPAS"
 abstract: >
   Timestamped public preview of the TSARL research codebase for adversarially robust learning.
 keywords:
