@@ -10,7 +10,7 @@
 
 | Item | Value |
 |---|---|
-| Throughput | 4.5k-6.1k img/s |
+| Throughput | 6080 img/s |
 | Speedup vs. PGD-50 | 9.5x |
 | Threat model | Linf, eps = 8/255 |
 | PGD step size | alpha = 2/255 |
